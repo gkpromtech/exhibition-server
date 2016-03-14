@@ -1,0 +1,8 @@
+*~
+/db/mysql_password
+*.creator.user
+/db/db.conf
+/server/conf.js
+/node_modules
+.hgignore
+.hg

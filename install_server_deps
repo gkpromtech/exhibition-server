@@ -1,0 +1,8 @@
+#!/bin/bash
+
+set -e
+
+which nodejs 2>/dev/null || sudo apt-get install nodejs
+which npm 2>/dev/null || sudo apt-get install npm
+
+npm install -S mysql email-templates ejs nodemailer nodemailer-wellknown nodemailer-smtp-transport

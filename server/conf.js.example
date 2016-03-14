@@ -1,0 +1,25 @@
+exports.conf = {
+    db: {
+        host: "localhost",
+        database: "exhibition",
+        user: "user",
+        password: "password"
+    },
+    server: {
+        port: 8888,
+        httpRoot: "http://localhost/",
+        wwwRoot: "/var/www/",
+        orgFilesRoot: "tmp/organizations/",
+        exportToken: "EXPORT_TOKEN_HERE"
+    },
+    alertEmail: {
+        to: "email_recepients@example.com",
+        transport: {
+            service: "Yandex",
+            auth: {
+                user: "support@portal.rusarmyexpo.ru",
+                pass: "PASSWORD_HERE"
+            }
+        }
+    }
+};

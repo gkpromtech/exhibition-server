@@ -1,0 +1,3 @@
+#!/bin/sh
+
+find server -type f -a \! -regex '.*/tmp/.*\|.*~' | sort > exhibition-server.files
