@@ -1,3 +1,5 @@
+[Русский текст](https://github.com/gkpromtech/exhibition-server/wiki)
+
 # Online exhibition REST-server
 
 Exhibition online REST server designed to work with [Mobile application](https://github.com/gkpromtech/exhibition-android).
