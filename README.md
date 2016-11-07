@@ -1,8 +1,8 @@
-[Русский текст](https://github.com/gkpromtech/exhibition-server/wiki)
+[Русский текст](https://github.com/primesoftpro/exhibition-server/wiki)
 
 # Online exhibition REST-server
 
-Exhibition online REST server designed to work with [Mobile application](https://github.com/gkpromtech/exhibition-android).
+Exhibition online REST server designed to work with [Mobile application](https://github.com/primesoftpro/exhibition-android).
 
 REST-server based on Node.js and MySQL.
 
@@ -23,7 +23,7 @@ Script downloads Node.js modules:
 ### Step 2
 
 Install MySQL server and database schema/data.
-You can use database from [Exhibition Online DB](https://github.com/gkpromtech/exhibition-db) or create your own.
+You can use database from [Exhibition Online DB](https://github.com/primesoftpro/exhibition-db) or create your own.
 
 ### Step 3
 
